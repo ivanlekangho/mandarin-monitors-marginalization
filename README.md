@@ -6,6 +6,8 @@ This repository contains a research paper analyzing how **digital platforms, sta
 
 The project examines how forms of linguistic oppression once enacted through education and policy are now reproduced, scaled, and circulated through **social media infrastructures and digital governance**.
 
+*Written for a 5-week Stanford Writing Program (PWR1)*
+
 ---
 
 ## Overview
